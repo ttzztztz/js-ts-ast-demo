@@ -13,9 +13,9 @@ interface Rabbit {
 }
 
 /**
- * 3333333
- * @param a 222121
- * @param b 12211221212112
+ * just a description
+ * @param a a variable
+ * @param b another variable
  */
 function fn2(a: number, b: string) : Rabbit {
   return { a, b };

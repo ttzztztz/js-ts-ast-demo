@@ -1,4 +1,7 @@
 function a() {
+    function aaaaa() {
+        console.log('aaaaa');
+    }
     console.log('a');
 }
 
